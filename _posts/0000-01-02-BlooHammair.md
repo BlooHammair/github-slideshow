@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our slide deck!"
 ---
-Hello comment vas tu
+Hello le sang 
 Use the right arrow to begin!
